@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋 , soy Adrian Felipe Lozano Leiva</h1><h3 align="center">Un desarrollador apasionado de Colombia</h3>- <br>Actualmente estoy aprendiendo **Spring boot, JavaScript, Angular**-  <br>📫 Cómo comunicarse conmigo **adrianfelipelo553@gmail.com**
+<h1 align="center">Hola 👋 , soy Adrian Felipe Lozano Leiva</h1><h3 align="center">Un desarrollador apasionado de Colombia</h3>- <br>Actualmente estoy aprendiendo **Spring boot, JavaScript, Angular**  <br>📫 Cómo comunicarse conmigo **adrianfelipelo553@gmail.com**
 
 
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
+<h3 align="left">Conéctate conmigo:</h3><p align="left"> https://www.linkedin.com/in/adrian-felipe-lozano-leiva-80216b22b
 </p>
 
 
